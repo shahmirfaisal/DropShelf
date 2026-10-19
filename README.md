@@ -71,7 +71,8 @@ Then press ⌘R. Builds are signed with a self-signed certificate named "ClipVau
 
 ## Related
 
-[ClipVault](https://github.com/shahmirfaisal/ClipVault) — a free clipboard manager for macOS.
+- [ClipVault](https://github.com/shahmirfaisal/ClipVault) — a free clipboard manager for macOS.
+- [PinShot](https://github.com/shahmirfaisal/PinShot) — floating screenshots: capture part of the screen and keep it pinned on top, with text recognition
 
 ## License
 
